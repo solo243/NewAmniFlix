@@ -99,11 +99,3 @@ Contributions to the AmniFlix are welcome! If you find a bug, have a feature sug
 <br />
 
 
-## ❤️
-
-AmniFlix is made with the love and passion that I have for anime and manga. I hope you enjoy it as much as I do. If you have any suggestions or feedback, please contact me on <a href="d0zy48@proton.me">Mail</a>
-<br /> <br />
-Reminder that <strong><i>you are great, you are enough, and your presence is valued.</i></strong> If you are struggling with your mental health, please reach out to someone you love and consult a professional. You are not alone.
-=======
-# AmaniFlix
->>>>>>> 307d6ff7d88af78ea1e21983d1d6f6e501fcdb2a

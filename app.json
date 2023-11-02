@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "AmniFlix",
+    "slug": "RealAmniFlix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/ohk.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+  
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icoon.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.harshil4848.RealAmniFlixb"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cddc4502-6796-40b2-85a6-711bf4b8152e"
+      }
+    }
+  }
+}

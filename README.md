@@ -76,7 +76,6 @@ Further down the line features
 
 
 <br />
-<br/>
 
 ## INSTALLATION INSTRUCTIONS
 
@@ -88,7 +87,7 @@ Further down the line features
 2. Install the apk.
 3. Open the app.
 
-
+<br/>
 
 ## INSTALLATION AND SETUP
 

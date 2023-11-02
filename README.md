@@ -22,6 +22,14 @@
 ## DISCLAIMER
 
 The app is still in alpha, so it may not work as expected. If you find any bugs, please report them in the [issues](https://github.com/solo243/NewAmniFlix/issues) section.
+<br/>
+
+
+## About AmniFlix 
+
+AmniFlix is your go-to platform for ad-free anime streaming, where you can indulge in a diverse array of anime content without any cost or interruptions. It's open source, secure, and offers multiple quality options for a seamless viewing experience. Stay updated with dedicated news feeds and dive into the world of anime without limitations or financial constraints.
+
+<br/>
 
 ## Features/Planned Features
 

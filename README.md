@@ -98,5 +98,17 @@ Contributions to the AmniFlix are welcome! If you find a bug, have a feature sug
 
 ## INSTALLATION AND SETUP
 
-1. `git clone https://github.com/solo243/NewAmniFlix`
+1. Clone repo 
+ `git clone https://github.com/solo243/NewAmniFlix`
+
+2. Install node package
+ `npm install` or `yarn install`
+
+3. Start expo
+ `expo start`
+
+4. Open android
+  `a`
+
+5. Enjoy 
 

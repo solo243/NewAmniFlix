@@ -29,16 +29,15 @@ The app is still in alpha, so it may not work as expected. If you find any bugs,
 - [x] Fast
 - [x] Responsive
 - [x] Dub support
-- [x] Anilist Collection support (Plant to watch, watching, watched, ReWatching, Dropped etc)
-- [X] Sync with anilist
-- [X] Manga support
-- [X] multi source providers
+- [ ] News support
 
+      
 
 Further down the line features
 - [ ] Movies
 - [ ] Tv shows 
 - [ ] more trackers (trakt, mal etc etc)
+      
 
 <br />
 

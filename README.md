@@ -96,4 +96,7 @@ Contributions to the AmniFlix are welcome! If you find a bug, have a feature sug
 
 <br />
 
+## INSTALLATION AND SETUP
+
+1. `git clone https://github.com/solo243/NewAmniFlix`
 

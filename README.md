@@ -98,10 +98,22 @@ Contributions to the AmniFlix are welcome! If you find a bug, have a feature sug
 
 ## INSTALLATION AND SETUP
 
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- [Node.js](https://nodejs.org/) installed (LTS version recommended)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/) installed globally
+- A package manager such as [npm](https://www.npmjs.com/get-npm) or [Yarn](https://classic.yarnpkg.com/en/docs/install/) installed
+- [Git](https://git-scm.com/) for version control
+
+
+## STEPS
+
 1. Clone repo <br/>
  `git clone https://github.com/solo243/NewAmniFlix`
 
-2. Install node package <br/>
+2. Install node packages <br/>
  `npm install` or `yarn install`
 
 3. Start expo <br/>

@@ -79,7 +79,6 @@ Further down the line features
 
 ## INSTALLATION INSTRUCTIONS
 
-<details>
 <summary>ANDROID</summary>
 <p>Make sure you have install from unknown sources enabled</p>
 <p>it will most likely ask you to enable this anyway</p>
@@ -88,7 +87,7 @@ Further down the line features
 2. Install the apk.
 3. Open the app.
 
-</details>
+
 
 <br />
 

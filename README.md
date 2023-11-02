@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 <a href="#">
     <img src="./ReadmeImages/hhj.png"/ style="width: 550px" >

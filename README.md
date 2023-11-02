@@ -107,7 +107,10 @@ Before you begin, ensure you have met the following requirements:
 - [Git](https://git-scm.com/) for version control
 
 
+
+
 <summary>Getting Started</summary>
+
 1. Clone repo <br/>
  `git clone https://github.com/solo243/NewAmniFlix`
 

@@ -121,5 +121,7 @@ Contributions to the AmniFlix are welcome! If you find a bug, have a feature sug
 <br />
 
 <br/>
+
 ## Special Thanks
+
 We extend our heartfelt gratitude to SyncLoop for the transformative impact it has had on our project, AmniFlix. While striving for swifter and more efficient API interactions, we confronted a formidable challenge posed by a sluggish external API. SyncLoop emerged as the linchpin of our project, empowering us to fine-tune our requests and achieving a remarkable boost in the speed and responsiveness of our application. Its indispensable role in elevating the user experience and delivering discernible results is beyond measure.SyncLoop's invaluable contribution has been instrumental in shaping the success of our project, and we are deeply appreciative of the tools it offers.

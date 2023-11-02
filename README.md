@@ -29,7 +29,7 @@ The app is still in alpha, so it may not work as expected. If you find any bugs,
 - [x] Fast
 - [x] Responsive
 - [x] Dub support
-- [ ] News support
+- [x] News support
 
       
 

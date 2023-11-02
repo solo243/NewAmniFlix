@@ -98,7 +98,7 @@ Contributions to the AmniFlix are welcome! If you find a bug, have a feature sug
 
 ## INSTALLATION AND SETUP
 
-# Prerequisites
+<b> Prerequisites <b>
 
 Before you begin, ensure you have met the following requirements:
 

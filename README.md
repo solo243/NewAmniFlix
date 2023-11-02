@@ -98,8 +98,7 @@ Contributions to the AmniFlix are welcome! If you find a bug, have a feature sug
 
 ## INSTALLATION AND SETUP
 
-**Prerequisites**
-
+<summary>Prerequisites</summary>
 Before you begin, ensure you have met the following requirements:
 
 - [Node.js](https://nodejs.org/) installed (LTS version recommended)
@@ -108,8 +107,7 @@ Before you begin, ensure you have met the following requirements:
 - [Git](https://git-scm.com/) for version control
 
 
-## STEPS
-
+<summary>Getting Started</summary>
 1. Clone repo <br/>
  `git clone https://github.com/solo243/NewAmniFlix`
 

@@ -23,7 +23,7 @@
 
 The app is still in alpha, so it may not work as expected. If you find any bugs, please report them in the [issues](https://github.com/solo243/NewAmniFlix/issues) section.
 <br/>
-
+<br/>
 
 ## About AmniFlix 
 

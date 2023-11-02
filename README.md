@@ -108,13 +108,13 @@ Before you begin, ensure you have met the following requirements:
 
 
 
-
+<br/>
 <summary>Getting Started</summary>
 
 1. Clone repo <br/>
  `git clone https://github.com/solo243/NewAmniFlix`
 
-2. Install node packages <br/>
+2. Install Project Dependencies<br/>
  `npm install` or `yarn install`
 
 3. Start expo <br/>

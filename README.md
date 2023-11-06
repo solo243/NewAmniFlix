@@ -68,7 +68,7 @@ Further down the line features
         <td>
             <img src="./ReadmeImages/i2.png"/>
         </td><td>
-            <img src="./ReadmeImages/i3.png"/>
+        
         </td><td>
             <img src="./ReadmeImages/i5.png"/>
         </td>
